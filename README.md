@@ -1,5 +1,5 @@
-### Hi there 👋
-### 🗣 안녕하세요 프론트엔드 개발자 진정수입니다. 
+### 🗣 안녕하세요 
+### 프론트엔드 개발자 진정수입니다. 
 <!--
 **youhavetosleep/youhavetosleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
