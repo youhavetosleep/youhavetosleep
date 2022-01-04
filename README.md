@@ -1,6 +1,9 @@
-#### 🗣 안녕하세요:) 프론트엔드 개발자 진정수입니다. 
-
-
+#### 🗣 Hi! I'm Frontend Developer Jungsu :) 
+<h3 align="center"><b>🗣 Hi! I'm Frontend Developer Jungsu :) </b></h3>
+<h4 align="center"><b> now I'm studing... 
+ &nbsp <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  </b></h4>
+<p align="center">
 <a href="https://holly-ferret-4e3.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050">
 <img
 src="http://img.shields.io/badge/-Tech%20Blog-47A248?style=flat&logo=notion&link=https://holly-ferret-4e3.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050"
@@ -16,6 +19,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qksekf4@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+  </p>
 
 
 
