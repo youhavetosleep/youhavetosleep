@@ -4,7 +4,7 @@
  &nbsp <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   </b></h4>
 <p align="center">
-<a href="https://holly-ferret-4e3.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050">
+<a href="https://youhavetosleep.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050">
 <img
 src="http://img.shields.io/badge/-Tech%20Blog-47A248?style=flat&logo=notion&link=https://holly-ferret-4e3.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
