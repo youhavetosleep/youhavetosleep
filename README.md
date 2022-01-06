@@ -9,7 +9,7 @@
 src="http://img.shields.io/badge/-Tech%20Blog-47A248?style=flat&logo=notion&link=https://holly-ferret-4e3.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<!-- <a href="https://holly-ferret-4e3.notion.site/FE-Engineer-25f80083a4714ba0b459cbb66d626573">
+<!-- <a href="https://youhavetosleep.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050">
 <img
 src="http://img.shields.io/badge/-resume-black?style=flat&logo=notion&link=https://instagram.com/fivepxint/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
