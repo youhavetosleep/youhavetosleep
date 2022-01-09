@@ -1,8 +1,11 @@
 
 <h3 align="center"><b>🗣 Hi! I'm Frontend Developer Jungsu :) </b></h3>
 <h4 align="center"><b> now I'm studing... 
- &nbsp <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  </b></h4>
+ &nbsp 
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  </b>
+</h4>
+
 <p align="center">
 <a href="https://youhavetosleep.notion.site/Tech-Blog-106fd5a989764bda9e3372f30403c050">
 <img
@@ -22,10 +25,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </p>
 
 
-
-
 <h3 align="center"><b>Tech Stack</b></h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
