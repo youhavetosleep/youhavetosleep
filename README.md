@@ -1,5 +1,5 @@
 
-<h3 align="center"><b>🗣 Hi! I'm Frontend Developer Jungsu :) </b></h3>
+<h3 align="center"><b>Hi! I'm Frontend Developer Jungsu :) </b></h3>
 <h4 align="center"><b> now I'm studing... 
  &nbsp 
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
